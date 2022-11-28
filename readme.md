@@ -1,7 +1,7 @@
 Hello Team, Here I create a Project based on given assignment.
 
 
-1. Created Project using terminal `react-native init JetDevs` github link JetDevs :: `https://github.com/janak-gloify/jetdevs`
+1. Created Project using terminal `react-native init JetDevs` github link JetDevs :: `https://github.com/janak-gloify/JetDevs`
 2. Folder and Development structure not defined in React Native official document, but based on my knowledge and experience, i am 
 going with below structure.
 - Files name starts with Uppercase letter.
